@@ -1,0 +1,2 @@
+101,TV,Samsung,Greu,15.01.2026,10
+102,TV,Samsung,Usor,15.01.2026,1

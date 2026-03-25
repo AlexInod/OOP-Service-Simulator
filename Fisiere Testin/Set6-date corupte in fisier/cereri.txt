@@ -1,0 +1,6 @@
+101,TV,Samsung,QLED,15.01.2026,2
+
+102,TV,LG,OLED,15.01.2026,2
+sfasfasgasga
+103,TV,Sony,,DATE_LIPSA
+104,TV,Samsung,OK,15.01.2026,2

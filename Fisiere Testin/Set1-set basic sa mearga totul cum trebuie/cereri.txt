@@ -1,0 +1,4 @@
+101,TV,Samsung,QLED_4K,15.01.2026,2
+102,MasinaSpalat,Whirlpool,EcoSilent,15.01.2026,4
+103,Frigider,Arctic,FrostFree,16.01.2026,3
+104,TV,Nokia,OldTube,17.01.2026,5

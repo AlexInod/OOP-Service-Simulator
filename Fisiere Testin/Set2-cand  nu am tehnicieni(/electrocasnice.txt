@@ -1,0 +1,6 @@
+TV,Samsung,QLED_4K,2022,2500,108
+TV,Sony,BraviaX,2020,3000,120
+Frigider,Arctic,FrostFree,2019,1200,1
+Frigider,LG,InstaView,2023,5000,0
+MasinaSpalat,Whirlpool,EcoSilent,2021,1800,8
+MasinaSpalat,Beko,WASH500,2018,1000,6

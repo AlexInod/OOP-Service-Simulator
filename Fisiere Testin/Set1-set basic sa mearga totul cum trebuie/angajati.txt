@@ -1,0 +1,5 @@
+Tehnician,Ion,Popescu,1900101123456,01.05.2020,Bucuresti,Samsung,LG,Arctic
+Tehnician,Maria,Ionescu,2950505123456,15.08.2018,Ploiesti,Whirlpool,Beko,Indesit
+Tehnician,Andrei,Vasile,1991212123456,10.01.2024,Bucuresti,Sony
+Receptioner,Elena,Dumitru,2850101123456,20.03.2019,Bucuresti
+Supervizor,Gheorghe,Mihai,1750404123456,01.01.2010,Bucuresti
