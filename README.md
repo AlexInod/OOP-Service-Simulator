@@ -103,4 +103,10 @@ La finalul simulării se generează fișiere CSV:
 * Proiect testat pe **6 cazuri diferite**
 * Fiecare caz este organizat în foldere separate, cu nume sugestive
 
+## Compilare și rulare
+```bash
+g++ *.cpp -o Test
+./Test   # Linux / Mac
+Test.exe # Windows
+
 
